@@ -37,7 +37,7 @@ var APP_DATA = {
           "yaw": 1.0360921315095997,
           "pitch": -0.19745055539954137,
           "title": "Zidaninda",
-          "text": "Text ABC DEdksjdk"
+          "text": "Gajah blora merupakan temuan yang spektakuler, sekitar 85% foil dari satu individu gajah in secara utuh ditemukan oleh tim ahli dari museum geologi yang dipimpin oleh Iwan Kurniawan dengan anggota Fachroel Aziz, Sidarto, Erick Setyabudi, dan Dadang, dalam suatu survei di tepian Bengawan Solo purba, Dusun Sunggun, Desa Mendalem, Kecamatan Kradenan, Kabupaten Blora, Provinsi Jawa Tengah pada tahun 2009. Ekskavasi dilakukan pada November 2009 oleh tim yang bekerja sama dengan tim dari Dinas Pariwisata Kabupaten Blora dan Wollongong University (Gert Van den Bergh dan Mike Morwood). Proses ekskavasi, preparasi, rekonstruksi, hingga peragaan fosil tersebut memakan waktu sekitar empat tahun. Gajan yang berjenis kelamin jantan dan memiliki tinggi sekitar empat meter, panjangnya lima meter, dan berat 6-8 ton ini hidup sekitar 165.000 tahun yang lalu, dan mati pada umur 49 tahun. Nama ilmiahnya adalah Elephas hysudrindicus, dan dianggap sebagai leluhur gajah Asia."
         }
       ]
     },
